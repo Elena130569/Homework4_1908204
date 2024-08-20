@@ -145,7 +145,7 @@ public class Main {
             System.out.println("В вагоне нет сидячих мест");
         }
 
-        int one = 12;
+        int one = 11;
         int two = 7;
         int three = 18;
         if (three > one && three > two) {
